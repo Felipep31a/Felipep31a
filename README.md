@@ -2,9 +2,9 @@
 
 ##### Atualmente sou desenvolvedor web júnior, e estudante em análise e desenvolvimento de sistemas. Possuo uma base muito boa no em desenvolvimento de software, desde o planejamento, processamento e execução, sempre aberto a novas idéias e descobertas.
 
-* :rocket: Programação: NodeJS, React, Flutter, Python;
+* :rocket: Programação: NodeJS, React, Python e c++;
 
-* :green_book: Estudando: Visão computacinal, Linguagem Rust(Mozilla) and DenoJS;
+* :green_book: Estudando: Visão computacinal;
 
 * :bulb: Outros: Docker;
 
